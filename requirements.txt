@@ -1,0 +1,7 @@
+setuptools>=65.5.1
+wheel>=0.38.4
+taipy-gui>=4.0.0
+plotly>=5.18.0
+pandas>=2.2.0
+numpy>=1.26.0
+gunicorn>=21.2.0 
